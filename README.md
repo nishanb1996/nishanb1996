@@ -1,5 +1,9 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Nishan Bansode </h1>
+<!-- <h1 align="center"><font face="Arial">Hi 👋, I'm Nishan Bansode </h1> -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishan+Bansode!;"/>
+</h1>
+
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nishan-bansode-875b561a9/" target="_blank" rel="noreferrer">Nishan</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
