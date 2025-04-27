@@ -15,9 +15,13 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- 🔭 I’m currently working on on DevOps, Microservices, containers, and everything around it.
+
 - I’m looking to collaborate on **Cloud/DevOps Projects**
 
+- 🌱 I’m currently learning **Kubernetes**
+
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, HTML**
 
 
 #### Programming Language Stack
@@ -46,7 +50,8 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, HTML**
+
 - 📫 How to reach me **[nishanbansode25@outlook.com](mailto:nishanbansode25@outlook.com)**
 
 - Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
